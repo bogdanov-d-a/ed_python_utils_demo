@@ -1,0 +1,3 @@
+clipboard_stack.pyw
+enru_converter.pyw
+git_repo_manager.py

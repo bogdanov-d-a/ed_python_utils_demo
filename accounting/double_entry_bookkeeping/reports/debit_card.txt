@@ -1,0 +1,4 @@
+income 10000, balance 10000
+expense 600, balance 9400
+expense 2000, balance 7400
+income 1000, balance 8400

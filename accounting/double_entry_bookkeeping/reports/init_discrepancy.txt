@@ -1,0 +1,1 @@
+expense 10000, balance -10000
