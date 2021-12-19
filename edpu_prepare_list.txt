@@ -1,0 +1,4 @@
+pip install pywin32
+pip install pyperclip
+In PATH: 7z
+In PATH: git
