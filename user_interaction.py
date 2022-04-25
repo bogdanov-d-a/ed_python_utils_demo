@@ -8,3 +8,10 @@ print(user_interaction.pick_option('Pick option', [
     'Option 3',
     'Option 4',
 ]))
+
+print(user_interaction.pick_option_multi('Pick options', [
+    'Option 1',
+    'Option 2',
+    'Option 3',
+    'Option 4',
+]))
